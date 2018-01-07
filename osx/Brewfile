@@ -1,0 +1,28 @@
+# Homebrew
+# --------------------
+tap 'homebrew/dupes'
+
+brew 'ctags'
+brew 'curl'
+brew 'fish'
+brew 'fzf'
+brew 'git'
+brew 'httpie'
+brew 'openssl'
+brew 'reattach-to-user-namespace'
+brew 'the_silver_searcher'
+brew 'tmux'
+brew 'vim'
+brew 'wget'
+
+# Cask
+# --------------------
+cask 'dropbox'
+cask 'iterm2'
+cask 'slack'
+cask 'spotify'
+
+# Fonts
+# --------------------
+tap 'caskroom/fonts'
+
